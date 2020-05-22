@@ -11,15 +11,15 @@ Factorem's platform connects hardware teams to a reliable network of suppliers. 
 **Website**: [https://factorem.co](https://factorem.co)
 - React
 - HTML, CSS, Javascript
-- AWS Amplify
-
+- AWS Amplify  
 
 **Portal**: [https://app.factorem.co](https://app.factorem.co)
 - React
 - NodeJS
 - MySQL
 - AWS EC2 and RDS
-
+  
+---
 
 ## OrigARmi
 - **Device**: Microsoft HoloLens
@@ -33,6 +33,5 @@ OrigARmi allows anyone to learn to fold complex origami without being confused w
 Additionally, to leverage the Hololens' capability and for a better user experience, this application can detect simple audio commands e.g. to go back and forth between steps. This way they can navigate between the steps without having to take their hands off of the origami paper. The animations can also be replayed for each step so that users can fold the origami at their own pace.
 
 
-**Code**: [GitHub](https://github.com/CS4240-team/Origami.git)
-
+**Code**: [GitHub](https://github.com/CS4240-team/Origami.git)  
 **Video**: [Youtube](https://www.youtube.com/watch?v=jsjlMVgSkG0&feature=youtu.be)
