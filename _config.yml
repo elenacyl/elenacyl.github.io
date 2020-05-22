@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: My brain dump
+title: Stuff
 
 # Short description of your site
 description: Everything and anything
@@ -14,7 +14,6 @@ author: Elena
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
-  Blog: "stories"
 
 # --- Logo --- #
 
