@@ -6,6 +6,19 @@ subtitle: Tried and Tested
 
 ## Factorem
 
+Factorem's platform connects hardware teams to a reliable network of suppliers. I Co-Founded Factorem and built the website and platorm. During the process, I not only managed to hone my skills in full stack development, I also got the chance to learn to host websites and configure DNS settings on AWS and GCP.
+
+**Website**: [https://factorem.co](https://factorem.co)
+- React
+- HTML, CSS, Javascript
+- AWS Amplify
+
+
+**Portal**: [https://app.factorem.co](https://app.factorem.co)
+- React
+- NodeJS
+- MySQL
+- AWS EC2 and RDS
 
 
 ## OrigARmi
@@ -20,12 +33,6 @@ OrigARmi allows anyone to learn to fold complex origami without being confused w
 Additionally, to leverage the Hololens' capability and for a better user experience, this application can detect simple audio commands e.g. to go back and forth between steps. This way they can navigate between the steps without having to take their hands off of the origami paper. The animations can also be replayed for each step so that users can fold the origami at their own pace.
 
 
-**Code**: [GitHub](https://github.com/CS4240-team/Origami.git) \
+**Code**: [GitHub](https://github.com/CS4240-team/Origami.git)
+
 **Video**: [Youtube](https://www.youtube.com/watch?v=jsjlMVgSkG0&feature=youtu.be)
-
-\
-## PingLaPong
-
-
-
-## Bridge
