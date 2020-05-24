@@ -5,16 +5,10 @@ subtitle: Tried and Tested
 ---
 
 ## Factorem
-**Website**: [https://factorem.co](https://factorem.co)
-- React
-- HTML, CSS, Javascript
-- AWS Amplify  
-
-**Portal**: [https://app.factorem.co](https://app.factorem.co)
-- React
-- NodeJS
-- MySQL
-- AWS EC2 and RDS
+| Product | Link | Technologies |
+| :------ |:--- | :--- |
+| Website | [https://factorem.co](https://factorem.co) | React,HTML, CSS, Javascript,AWS Amplify   |
+| Portal | [https://app.factorem.co](https://app.factorem.co) | React, NodeJS, MySQL, AWS EC2, AWS RDS |
 
 Factorem's platform connects hardware teams to a reliable network of suppliers. I Co-Founded Factorem and built the website and platorm. During the process, I not only managed to hone my skills in full stack development, I also got the chance to learn to host websites and configure DNS settings on AWS and GCP.
 
