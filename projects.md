@@ -19,7 +19,8 @@ subtitle: Tried and Tested
 Factorem's platform connects hardware teams to a reliable network of suppliers. I Co-Founded Factorem and built the website and platorm. During the process, I not only managed to hone my skills in full stack development, I also got the chance to learn to host websites and configure DNS settings on AWS and GCP.
 
 ---
-&nbsp;
+---
+
 ## OrigARmi
 - **Device**: Microsoft HoloLens
 - **Technologies used**: Unity, MRTK
