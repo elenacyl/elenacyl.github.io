@@ -32,3 +32,17 @@ Additionally, to leverage the Hololens' capability and for a better user experie
 
 **Code**: [GitHub](https://github.com/CS4240-team/Origami.git)  
 **Video**: [Youtube](https://www.youtube.com/watch?v=jsjlMVgSkG0&feature=youtu.be)
+
+---
+&nbsp;
+
+## PingLaPong
+- **Technologies used**: ReactJS, Spring
+
+<img src="https://i.imgur.com/RpZ5Rdb.png" width="400">
+
+PingLaPong is a capstone project that my team built as part of a GovTech project. It is a full suite team management system that is designed and developed in Microservice architecture where it consists of user management, calendar, venue, and notification service. My role in the team was mainly to build the frontend of this system. I set up the frontend using a [Boilerplate](https://github.com/react-boilerplate/react-boilerplate) and had to familiarize with the different libraries in a short period of time. Libraries that we used include: [Redux-saga](https://redux-saga.js.org), [Semantic UI](https://react.semantic-ui.com) and [Redux](https://redux.js.org) amongst many others. We implemented the signup feature in a way that only allows people who are invited (with a unique url) to sign up. Users can also signup and login with third party applications such as google login. In this process, both the user and team lead have to do a confirmation in their emails before the user can access the portal. For the calendar feature, users are not only able to CRUD their own events (leave, WFH, etc) in the calendar, but they can also view their teammates' calendars. Team leads are then able to track their team members' progress and workflow.
+
+My team won the Best Project Award at the 15th STePS - NUS School of Computing Term Project Showcase (19-20 Semester 1)
+
+**Link**: [Website](http://pinglapong-b.cpfb.gds-gov.tech/login)  
