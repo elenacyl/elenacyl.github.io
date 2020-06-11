@@ -13,7 +13,6 @@ author: Elena
 
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
   
 paginate_path: "/blog/page:num/"
 
