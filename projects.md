@@ -11,9 +11,9 @@ subtitle: Tried and Tested
 
 **Portal**
 - Link: [https://app.factorem.co](https://app.factorem.co)
-- Technologies: React, NodeJS, MySQL, AWS EC2, AWS RDS
+- Technologies: ReactJS, NodeJS, MySQL, AWS EC2, AWS RDS
 
-Factorem's platform connects hardware teams to a reliable network of suppliers. I Co-Founded Factorem and built the website and platorm. During the process, I not only managed to hone my skills in full stack development, I also got the chance to learn to host websites and configure DNS settings on AWS and GCP.
+Factorem is your one-stop portal to custom manufacturing. Currently being used by more than 100 users (customers and manufacturers) across Singapore and Malaysia.
 
 ---
 &nbsp;
